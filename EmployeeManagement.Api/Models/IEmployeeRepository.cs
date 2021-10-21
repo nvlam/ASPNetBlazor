@@ -8,10 +8,14 @@ namespace EmployeeManagement.Api.Models
 {
     public interface IEmployeeRepository
     {
+        Task<Employee> GetEmployeeByEmail(string email);
         Task<IEnumerable<Employee>> GetEmployees();
         Task<Employee> GetEmployee(int employeeId);
         Task<Employee> AddEmployee(Employee employee);
         Task<Employee> UpdateEmployee(Employee employee);
-        void DeleteEmployee(int imployeeId);
+       
+        Task<Employee> DeleteEmployee(int imployeeId);
+        Task<IEnumerable<Employee>> Search(string name, Gender? gender);
+
     }
 }

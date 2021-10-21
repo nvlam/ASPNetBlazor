@@ -1,0 +1,11 @@
+﻿@page "/textareabinding"
+@inherits TextAreaBindingBase
+<h3>Two way binding </h3>
+
+<div>
+    <textarea @bind="Description" @bind:event="oninput" style="width:500px;"/>
+</div>
+
+<div>
+    Count: @Description.Length
+</div>

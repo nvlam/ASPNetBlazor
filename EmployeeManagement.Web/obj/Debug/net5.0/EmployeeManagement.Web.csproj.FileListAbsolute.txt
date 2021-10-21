@@ -91,3 +91,15 @@ C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagemen
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EmployeeDetails.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\DatabindingDemo.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DatabindingDemo.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\TextAreaBinding.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\TextAreaBinding.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DisplayEmployee.razor.g.cs
