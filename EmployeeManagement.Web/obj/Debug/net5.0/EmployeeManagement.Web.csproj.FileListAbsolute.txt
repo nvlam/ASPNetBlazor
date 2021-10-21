@@ -103,3 +103,5 @@ C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagemen
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\TextAreaBinding.razor.g.cs
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\DisplayEmployee.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
