@@ -8,7 +8,12 @@ namespace EmployeeManagement.Api.Models
 {
     public interface IDepartmentRepository
     {
-        IEnumerable<Department> GetDepartments();
-        Department GetDepartment(int departmentId);
+        Task<IEnumerable<Department>> GetDepartments();
+        Task<Department> GetDepartment(int departmentId);
+        Task<Department> AddDepartment(Department department);
+        Task<Department> UpdateDepartment(Department department);
+
+        Task<Department> DeleteDepartment(int departmentId);
+        Task<IEnumerable<Department>> Search(string name);
     }
 }
