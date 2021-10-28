@@ -20,13 +20,13 @@ namespace EmployeeManagement.Web.Pages
         [Inject]
         public IDepartmentService DepartmentService { get; set; }
         public IEnumerable<Department> Departments { get; set; }
-        public string DepartmentId { get; set; }
+     //   public string DepartmentId { get; set; }
 
         protected async override Task OnInitializedAsync()
         {
             Employee = await EmployeeService.GetEmployee(int.Parse(Id));
            
-            DepartmentId = Employee.DepartmentId.ToString();
+          //  DepartmentId = Employee.DepartmentId.ToString();
 
             Departments = await DepartmentService.GetDepartments();
         }
