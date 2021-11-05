@@ -205,6 +205,10 @@
             "Microsoft.AspNetCore.Components": {
               "target": "Package",
               "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
