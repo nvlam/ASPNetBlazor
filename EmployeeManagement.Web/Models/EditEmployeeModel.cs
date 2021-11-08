@@ -8,6 +8,7 @@ using EmployeeManagement.Models;
 using EmployeeManagement.Models.CustomValidators;
 
 
+
 namespace EmployeeManagement.Web.Models
 {
     public class EditEmployeeModel
@@ -34,6 +35,8 @@ namespace EmployeeManagement.Web.Models
         // public Department Department { get; set; }
         public int DepartmentId { get; set; }
         public string PhotoPath { get; set; }
-        public Department Department { get; set; }
+
+        [ValidateComplexType]
+        public Department Department { get; set; } = new Department();
     }
 }

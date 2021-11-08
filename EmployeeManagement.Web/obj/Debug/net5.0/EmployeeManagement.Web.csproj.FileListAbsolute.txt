@@ -107,3 +107,4 @@ C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagemen
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\source\repos\EmployeeManagement\EmployeeManagement\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
